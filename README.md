@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **regAsset - open Source Asset Management & Discovery Tool**
 
-- 🌱 I’m currently learning **Powershell, react, vue**
+- 🌱 I’m currently learning **React and Vue**
 
 - 💬 Ask me about **Python, Powershell or other Scripting**
 
