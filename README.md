@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nico Unterburger</h1>
 <h3 align="center">a passionate system admin, programmer, designer - idk i do so many things</h3>
 
-<p align="left"> <a href="https://twitter.com/zer0ref" target="blank"><img src="https://img.shields.io/twitter/follow/zer0ref?logo=twitter&style=for-the-badge" alt="zer0ref" /></a> </p>
-
 - 🔭 I’m currently working on **regAsset - open Source Asset Management & Discovery Tool**
 
 - 🌱 I’m currently learning **React and Vue**
